@@ -11,7 +11,7 @@ We will start with loading basic libraries, data set and will have a look at the
 <img width="1089" alt="Screenshot 2022-11-25 at 3 48 25 PM" src="https://user-images.githubusercontent.com/66113337/203962149-c23cd808-fac7-4e45-98b2-0d054ea358af.png">
 
 
-#Understanding the Stock Data
+**Understanding the Stock Data**
 
 Let us understand various columns for further analysis.
 
@@ -22,7 +22,7 @@ The Volume column tells us the total volume of stocks traded on a particular day
 
 The volume weighted average price (VWAP) is a trading benchmark used by traders that gives the average price a security has traded at throughout the day, based on both volume and price. It is important because it provides traders with insight into both the trend and value of a security.source.
 
-#Visualization
+**Visualization**
 
 We visualize the VWAP of INFOSYS shares and plot VWAP to visualize how the prices and value fluctuate over time.This is a very basic plot, to make it more meaningful let us plot month and year wise trends.
 
