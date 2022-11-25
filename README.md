@@ -26,7 +26,10 @@ The volume weighted average price (VWAP) is a trading benchmark used by traders 
 
 We visualize the VWAP of INFOSYS shares and plot VWAP to visualize how the prices and value fluctuate over time.This is a very basic plot, to make it more meaningful let us plot month and year wise trends.
 
-<img width="1089" alt="Screenshot 2022-11-25 at 3 48 25 PM" src="https://user-images.githubusercontent.com/66113337/203974352-b2c29f95-ef4d-48ac-a53e-893188735521.png">
+
+<img width="914" alt="Screenshot 2022-11-25 at 4 48 58 PM" src="https://user-images.githubusercontent.com/66113337/203974591-fa4183e4-6222-4baa-bb47-0aff75789eed.png">
+
+
 
 
 
