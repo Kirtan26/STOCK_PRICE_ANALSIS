@@ -3,6 +3,8 @@
 
 **Dataset**
 
+https://drive.google.com/file/d/1yUOm4YWkdT5WMul0gpd6ZpErcYWnywNR/view?usp=sharing
+
 In this Project, we will use INFOSYS data set to analyze stock prices and perform some basic time series operations. Infosys Limited is an Indian multinational information technology company that provides business consulting, information technology and outsourcing services. Infosys is the second-largest Indian IT company, after Tata Consultancy Services.
 
 We will start with loading basic libraries, data set and will have a look at the dataset
@@ -30,7 +32,10 @@ We visualize the VWAP of INFOSYS shares and plot VWAP to visualize how the price
 <img width="914" alt="Screenshot 2022-11-25 at 4 48 58 PM" src="https://user-images.githubusercontent.com/66113337/203974591-fa4183e4-6222-4baa-bb47-0aff75789eed.png">
 
 
+Following are the python library which we had used for project:
 
-
+  1)pandas
+  2)seaborn
+  3)matplotlib
 
 
